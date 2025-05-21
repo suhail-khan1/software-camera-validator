@@ -42,4 +42,4 @@ Paste cameraValidator.js file content into any of the following:
 
 Run with Node.js (Locally)
 Make sure you have Node.js installed, then run bleow command:
-node cameraValidator.js
+- node cameraValidator.js
