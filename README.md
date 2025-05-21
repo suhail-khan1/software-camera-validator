@@ -24,8 +24,8 @@ const hardwareCameras = [
   { subjectRange: [7, 10], lightRange: [700, 1000] }
 ];
 
-console.log("Supported?", isSoftwareCameraSupported(desiredSubjectRange, desiredLightRange, hardwareCameras));
-// Output: Supported? true
+console.log("Supported:", isSoftwareCameraSupported(desiredSubjectRange, desiredLightRange, hardwareCameras));
+// Output: Supported: true
 
 # Run the code
 Run in Browser Console
