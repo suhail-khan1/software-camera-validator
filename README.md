@@ -35,7 +35,7 @@ Run in Browser Console
 - Press Enter.
 
 Run in Online Editors
-Paste cameraValidator.js file content into any of the following:
+Copy and Paste cameraValidator.js file content into any of the following:
 - JSFiddle
 - CodePen
 - StackBlitz
